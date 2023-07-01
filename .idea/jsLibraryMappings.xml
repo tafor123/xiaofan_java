@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="xiaofan_java/project_test/library/node_modules" />
+    <excludedPredefinedLibrary name="xiaofan_java/project_test/vue_test/myvue/node_modules" />
+  </component>
+</project>
