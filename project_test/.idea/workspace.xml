@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f37e2a5-c50a-4413-96eb-4ae89934964a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/library" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Workspace\MavenRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3.8.6-bin/apache-maven-3.8.6" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.8.6-bin\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#USE_PROJECT_JDK" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2RBXIAnhhFZvS8JLr8V9g4OCpiG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java程序/xiaofan_java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project_test\library\src\views\retur" />
+      <recent name="D:\project_test\library\src\views" />
+      <recent name="D:\project_test\demo02\src\main\resources\mapper" />
+      <recent name="D:\project_test\library\src\views\book" />
+      <recent name="D:\project_test\library\src\views\category" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project_test\library\src\views\home" />
+      <recent name="D:\project_test\library\src\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo02.entity" />
+      <recent name="com.example.demo02.controller.request" />
+      <recent name="com.example.demo02.controller" />
+      <recent name="com.example.demo02.service.impl" />
+      <recent name="com.example.demo02.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Demo02Application">
+    <configuration name="Demo01Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_202\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo01.Demo01Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo02.Demo02Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/library/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo01Application" />
+      <item itemvalue="npm.serve" />
+      <item itemvalue="Spring Boot.Demo02Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Demo02Application" />
+        <item itemvalue="Application.Demo01Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f37e2a5-c50a-4413-96eb-4ae89934964a" name="Default Changelist" comment="" />
+      <created>1686724369427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686724369427</updated>
+      <workItem from="1686724371968" duration="633000" />
+      <workItem from="1686725116394" duration="2047000" />
+      <workItem from="1686727707484" duration="353000" />
+      <workItem from="1686728083522" duration="1507000" />
+      <workItem from="1686746696936" duration="2326000" />
+      <workItem from="1686749060122" duration="968000" />
+      <workItem from="1686750095522" duration="1094000" />
+      <workItem from="1686752931878" duration="1621000" />
+      <workItem from="1686754580133" duration="1886000" />
+      <workItem from="1686756502701" duration="1022000" />
+      <workItem from="1686757549612" duration="3165000" />
+      <workItem from="1686788897957" duration="4902000" />
+      <workItem from="1686803938946" duration="2565000" />
+      <workItem from="1686811305348" duration="15818000" />
+      <workItem from="1686839713995" duration="6007000" />
+      <workItem from="1686878633230" duration="1798000" />
+      <workItem from="1686880871858" duration="2237000" />
+      <workItem from="1686883627445" duration="10661000" />
+      <workItem from="1686895618592" duration="11044000" />
+      <workItem from="1686921109020" duration="6362000" />
+      <workItem from="1686927579703" duration="4981000" />
+      <workItem from="1686988193223" duration="29098000" />
+      <workItem from="1687049963018" duration="688000" />
+      <workItem from="1687054248372" duration="3389000" />
+      <workItem from="1687065242470" duration="8331000" />
+      <workItem from="1687076944891" duration="10509000" />
+      <workItem from="1687095261816" duration="5522000" />
+      <workItem from="1687144103637" duration="2744000" />
+      <workItem from="1687163485489" duration="3690000" />
+      <workItem from="1687171094014" duration="5349000" />
+      <workItem from="1687182816456" duration="6462000" />
+      <workItem from="1687227516710" duration="1035000" />
+      <workItem from="1687245431827" duration="781000" />
+      <workItem from="1687252436756" duration="2015000" />
+      <workItem from="1687259039328" duration="1402000" />
+      <workItem from="1687274496072" duration="1642000" />
+      <workItem from="1687309509234" duration="38223000" />
+      <workItem from="1687398213478" duration="266000" />
+      <workItem from="1687398643179" duration="13000" />
+      <workItem from="1687400879589" duration="16000" />
+      <workItem from="1687401900602" duration="22819000" />
+      <workItem from="1687444231934" duration="8056000" />
+      <workItem from="1687483905999" duration="21335000" />
+      <workItem from="1687519621793" duration="2288000" />
+      <workItem from="1687522338646" duration="34000" />
+      <workItem from="1687524138430" duration="5893000" />
+      <workItem from="1687570640216" duration="11397000" />
+      <workItem from="1687610085379" duration="1752000" />
+      <workItem from="1687652172146" duration="21328000" />
+      <workItem from="1687681480179" duration="1345000" />
+      <workItem from="1687699397467" duration="8000" />
+      <workItem from="1687699415036" duration="5000000" />
+      <workItem from="1687786411706" duration="4609000" />
+      <workItem from="1687840547362" duration="647000" />
+      <workItem from="1687952659700" duration="22000" />
+      <workItem from="1688111363268" duration="8898000" />
+      <workItem from="1688123700114" duration="900000" />
+      <workItem from="1688190471661" duration="16637000" />
+      <workItem from="1688222539692" duration="3123000" />
+      <workItem from="1688227397231" duration="312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoSuchMethodException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="com.example.demo02.exception.ServiceException" package="com.example.demo02.exception" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
