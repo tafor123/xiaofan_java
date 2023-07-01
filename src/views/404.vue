@@ -1,0 +1,7 @@
+<template>
+  <div style="text-align: center">
+    <div style="margin:150px; font-size: 100px; text-align: center">404</div>
+    <div style="font-size: 50px">未找到页面</div>
+    <div><el-button type="text" style="margin: 20px;font-size: 20px" @click="$router.push('/')">返回主页</el-button></div>
+  </div>
+</template>

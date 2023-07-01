@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #eee;
+}
+*{
+    box-sizing: border-box;/*不单独站一个像素*/
+}
+
+th{
+    background-color: aliceblue !important;
+}
